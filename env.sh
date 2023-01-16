@@ -1,0 +1,17 @@
+export SHELL=/data/data/com.termux/files/usr/bin/bash
+export COLORTERM=truecolor
+export HISTCONTROL=ignoreboth
+export PREFIX=/data/data/com.termux/files/usr
+export TERMUX_IS_DEBUGGABLE_BUILD=1
+export TERMUX_MAIN_PACKAGE_FORMAT=debian
+export PWD=/data/data/com.termux/files/home
+export TERMUX_VERSION=0.118.0
+export EXTERNAL_STORAGE=/sdcard
+export LD_PRELOAD=/data/data/com.termux/files/usr/lib/libtermux-exec.so
+export HOME=/data/data/com.termux/files/home
+export LANG=en_US.UTF-8
+export TERMUX_APK_RELEASE=GITHUB
+export TMPDIR=/data/data/com.termux/files/usr/tmp
+export TERM=xterm-256color
+export SHLVL=2
+export PATH=/data/data/com.termux/files/usr/bin:$PATH
